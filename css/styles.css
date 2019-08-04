@@ -1,0 +1,19 @@
+body {
+  background-color: #fcf9ea;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: thick;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #49beb7
+}
+
+.mizzou-logo {
+  height: 65px;
+  padding-right: 100px;
+}
